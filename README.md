@@ -1,8 +1,36 @@
-# React + Vite
+<h1 align="center" id="title">React with tailwind simple templete design</h1>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<p id="description">My react templete design</p>
 
-Currently, two official plugins are available:
+<h2>🚀 Demo</h2>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+[https://react-with-material-ui-simple-templete-design.vercel.app/](https://react-with-material-ui-simple-templete-design.vercel.app/)
+
+<h2>Project Screenshots:</h2>
+
+<img src="src/assets/img/bg.png" alt="project-screenshot" height="800/">
+
+<h2>🛠️ Installation Steps:</h2>
+
+<p>1. First install node modules</p>
+
+```
+npm i --save
+```
+
+<p>2. Run project</p>
+
+```
+npm run dev
+```
+
+  
+  
+<h2>💻 Built with</h2>
+
+Technologies used in the project:
+
+*   Html
+*   Tailwind
+*   React
+*   Javascript
